@@ -4,7 +4,7 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 
 ### Deployed Interactive Interface - Tableau Public
 
-> https://public.tableau.com/profile/pierre.olivier.boisvert#!/vizhome/Challenge_16174085472930/NYCCitibike
+> https://public.tableau.com/app/profile/lindsay3333/viz/NYCCitibike_16487627601210/NYCCitibike
 
 ## Resources
 
