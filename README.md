@@ -52,3 +52,5 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 
 - Having multiple dataset to see if the service is popular during the winter.
 - Aggregation data on promotions to encourage customer for longer trips.
+
+
