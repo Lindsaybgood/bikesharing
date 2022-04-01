@@ -9,7 +9,7 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 ## Resources
 
 - Dataset: 201908-citibike-tripdata.csv.zip (https://s3.amazonaws.com/tripdata/index.html)
-- Software: Python 3.8.5, Anaconda Navigator 1.10.0 Tableau Public 2021.1.0
+- Software: Python 3.9.7, Anaconda Navigator 2.1.1 Tableau Public 2022.1.0
 
 ## Results
 
